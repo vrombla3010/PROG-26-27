@@ -1,7 +1,7 @@
 def main():
     conIva = float(input("Introduce el importe con IVA: "))
 
-    iva = conIva * 0.10
+    iva = conIva * 10 / 110
     sinIva = conIva - iva
 
 

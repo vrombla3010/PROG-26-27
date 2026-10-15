@@ -1,10 +1,10 @@
 def main():
-    precio = input("Introduce el precio en euros con dos decimales: ")
+    precio: str = input("Introduce el precio en euros con dos decimales: ")
 
-    partes = precio.split(".")
+    partes: list[str] = precio.split(".")
 
-    euros = partes[0]
-    centimos = partes[1]
+    euros: str = partes[0]
+    centimos: str = partes[1]
 
     print("Número de euros:", euros)
     print("Número de céntimos:", centimos)

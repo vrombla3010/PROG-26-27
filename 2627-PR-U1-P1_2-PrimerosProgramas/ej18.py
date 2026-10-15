@@ -1,10 +1,10 @@
 def main():
-    nombreCompleto = input("Escribe tu nombre completo: ")
-    nombre = nombreCompleto.split()[0]
+    nombreCompleto: str = input("Escribe tu nombre completo: ")
+    nombre: str = nombreCompleto.split()[0]
 
-    minusculas = nombre.lower()
-    mayusculas = nombre.upper()
-    primeraLetraEnMayusculas = nombreCompleto.title()
+    minusculas: str = nombre.lower()
+    mayusculas: str = nombre.upper()
+    primeraLetraEnMayusculas: str = nombreCompleto.title()
 
     print(f"Nombre en minúsculas: {minusculas}")
     print(f"Nombre en mayúsculas: {mayusculas}")

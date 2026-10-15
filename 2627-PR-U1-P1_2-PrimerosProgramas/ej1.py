@@ -1,5 +1,5 @@
 def main():
-    nombre = input("Escribe tu nombre: ")
+    nombre: str = input("Escribe tu nombre: ")
 
     print("Hola, " + nombre + ".")
 

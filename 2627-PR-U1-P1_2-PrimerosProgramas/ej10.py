@@ -1,5 +1,5 @@
 def main():
-    resultado = ((3 + 2) / (2 * 5)) ** 2
+    resultado: float = ((3 + 2) / (2 * 5)) ** 2
 
     print(resultado)
 

@@ -1,8 +1,8 @@
 def main():
-    horas = int(input("Introduce el número de horas trabajadas: "))
-    tarifa = float(input("Introduce la tarifa por hora: "))
+    horas: int = int(input("Introduce el número de horas trabajadas: "))
+    tarifa: float = float(input("Introduce la tarifa por hora: "))
 
-    sueldo = horas * tarifa
+    sueldo: float = horas * tarifa
 
     print("El sueldo total es: ", sueldo)
 

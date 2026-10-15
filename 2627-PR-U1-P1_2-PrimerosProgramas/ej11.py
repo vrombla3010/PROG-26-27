@@ -1,7 +1,7 @@
 def main():
-    n = int(input("Introduce un entero positivo: "))
+    n: int = int(input("Introduce un entero positivo: "))
 
-    suma = n * (n + 1) / 2
+    suma: float = n * (n + 1) / 2
 
     print("La suma es:", suma)
 

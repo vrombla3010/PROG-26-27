@@ -1,6 +1,6 @@
 def main():
-    ancho = 17
-    alto = 12.0
+    ancho: int = 17
+    alto: float = 12.0
 
     print(type(ancho / 2))
     print(type(ancho // 2))

@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="220">
+<rect width="100%" height="100%" fill="#1e1e1e"/>
+<text x="24" y="48" fill="#d4d4d4" font-family="Consolas,monospace" font-size="19">PS&gt; python -c "import sys; print(sys.executable)"</text>
+<text x="24" y="100" fill="#ce9178" font-family="Consolas,monospace" font-size="19">C:\Users\UsuarioT\AppData\Local\Programs\Python\Python314\python.exe</text>
+<text x="24" y="165" fill="#6a9955" font-family="Consolas,monospace" font-size="17">Entorno virtual desactivado</text>
+</svg>

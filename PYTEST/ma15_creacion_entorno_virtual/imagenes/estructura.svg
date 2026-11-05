@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="300">
+<rect width="100%" height="100%" fill="#1e1e1e"/>
+<text x="24" y="42" fill="#9cdcfe" font-family="Consolas,monospace" font-size="22">Estructura MA1.5</text>
+<text x="24" y="82" fill="#d4d4d4" font-family="Consolas,monospace" font-size="18">ma15_creacion_entorno_virtual/</text>
+<text x="48" y="116" fill="#d4d4d4" font-family="Consolas,monospace" font-size="18">├── .venv/  (entorno virtual local)</text>
+<text x="48" y="150" fill="#d4d4d4" font-family="Consolas,monospace" font-size="18">└── EVIDENCIAS.md</text>
+<text x="24" y="215" fill="#6a9955" font-family="Consolas,monospace" font-size="16">Creado con: python -m venv .venv</text>
+</svg>

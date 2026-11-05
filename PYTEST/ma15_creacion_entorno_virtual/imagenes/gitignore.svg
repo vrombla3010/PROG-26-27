@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="850" height="230">
+<rect width="100%" height="100%" fill="#1e1e1e"/>
+<text x="24" y="45" fill="#d4d4d4" font-family="Consolas,monospace" font-size="19">PS&gt; git status --short --ignored</text>
+<text x="24" y="95" fill="#ce9178" font-family="Consolas,monospace" font-size="19">!! ma15_creacion_entorno_virtual/.venv/</text>
+<text x="24" y="145" fill="#ce9178" font-family="Consolas,monospace" font-size="19">!! .venv/</text>
+<text x="24" y="195" fill="#6a9955" font-family="Consolas,monospace" font-size="17">Regla .venv/ presente en .gitignore</text>
+</svg>
